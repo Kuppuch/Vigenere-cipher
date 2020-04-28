@@ -1,0 +1,6 @@
+D:\Roman\C#\Vigenere algorithm\bin\Debug\Vigenere algorithm.exe.config
+D:\Roman\C#\Vigenere algorithm\bin\Debug\Vigenere algorithm.exe
+D:\Roman\C#\Vigenere algorithm\bin\Debug\Vigenere algorithm.pdb
+D:\Roman\C#\Vigenere algorithm\obj\Debug\Vigenere algorithm.csprojAssemblyReference.cache
+D:\Roman\C#\Vigenere algorithm\obj\Debug\Vigenere algorithm.exe
+D:\Roman\C#\Vigenere algorithm\obj\Debug\Vigenere algorithm.pdb
